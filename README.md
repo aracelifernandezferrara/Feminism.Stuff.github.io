@@ -1,2 +1,2 @@
-# Feminism.Stuff.github.io
+# feminism.stuff.github.io
 Test
